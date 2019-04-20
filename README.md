@@ -1,4 +1,9 @@
 # skeleton
+
+
+[![Build Status](https://travis-ci.org/jonkeane/skeleton.svg?branch=master)](https://travis-ci.org/jonkeane/skeleton)
+
+
 A generic python package skeleton 
 
 To install for devleopment:
